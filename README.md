@@ -11,5 +11,7 @@ I. About the class performance
  II. What I want to make: Humanoid robot
  
   -consists of a lot motors to recreate the joints that humans have so the robot could move "fluently"
+  
+  ![alt text](http://url/to/img.png)
    
 
