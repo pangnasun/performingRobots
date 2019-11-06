@@ -29,7 +29,7 @@ Two lessons robots can learn from human actors:
           - quick responses: some responses are based on incomplete information-makes it natural in a way because human
             tend to act that way  
 
-<img src="figure2.png" alt="figure2" width="450"/>  
+ <img src="figure2.png" alt="figure2" width="450"/>  
 
 ## Project Propsoal
 
