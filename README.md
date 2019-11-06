@@ -21,8 +21,7 @@ Two lessons robots can learn from human actors:
        - An actor's inner monologue is shown through out the play through actions or monologue-this in term creates a   
          narrative for that actor
        - Implement to robots to create a "more fluent and acceptance in human-robot joint activities"
-            - could be implemented by making the robot activity continuous
-            
+            - could be implemented by making the robot activity continuous            
    2. Responsiveness:
       - "a scene is not happening within any of the actor’s minds"
       - Robot's responsiveness is based on their interaction with other actors(humans and other robots)
