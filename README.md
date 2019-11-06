@@ -15,7 +15,7 @@ Two things must be put into consideration when having robots on stage:
       - using a "real-time adaptive and autonomatic robotic improvisation system"
       - robots are synchronized with the human player to simultaneously response to other actors(humans and robots)
       
-      <img src="figure1.png" alt="figure1" width="350"/>  
+      <img src="figure1.png" alt="figure1" width="450"/>  
 ### II. Robots on Stage
 Two lessons robots can learn from human actors:    
   1. Conintuity- inner monologue:
@@ -29,7 +29,7 @@ Two lessons robots can learn from human actors:
           - quick responses: some responses are based on incomplete information-makes it natural in a way because human
             tend to act that way  
 
-<img src="figure2.png" alt="figure2" width="350"/>  
+<img src="figure2.png" alt="figure2" width="450"/>  
 
 ## Project Propsoal
 
