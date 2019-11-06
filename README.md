@@ -14,7 +14,7 @@
   
   <!--![alt text](https://github.com/pangnasun/performingRobots/blob/master/qsketch.JPG)-->
   
-  <img src="qsketch24.png" alt="drawing" width="200"/>
+  <img align="center" src="qsketch24.png" alt="drawing" width="200"/>
   
   I will try to make those joints work by testing the implemenation of different motors at those joints. 
    
