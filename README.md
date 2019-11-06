@@ -17,7 +17,7 @@ Two things must be put into consideration when having robots on stage:
       
 ### I. Robots on Stage
 Two lessons robots can learn from human actors:
- 1. Conintuity- inner monologue
+    1. Conintuity- inner monologue
        - An actor's inner monologue is shown through out the play through actions or monologue-this in term creates a   
          narrative for that actor
        - Implement to robots to create a "more fluent and acceptance in human-robot joint activities"
