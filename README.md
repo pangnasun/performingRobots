@@ -12,9 +12,9 @@
  
   -consists of a lot motors to recreate the joints that humans have so the robot could move "fluently"
   
-  ![alt text](https://github.com/pangnasun/performingRobots/blob/master/qsketch.JPG)
+  <!--![alt text](https://github.com/pangnasun/performingRobots/blob/master/qsketch.JPG)-->
   
-  <img src="qsketch24.png" alt="drawing" width="100"/>
+  <img src="qsketch24.png" alt="drawing" width="200"/>
   
   I will try to make those joints work by testing the implemenation of different motors at those joints. 
    
