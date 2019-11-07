@@ -51,6 +51,7 @@ Two lessons robots can learn from human actors:
 ## Project Updates
 
 After I did a detailed planning of my robot body, I found out that I'll need two extra servo motors for the neck and the head.
+
 <img src="detailed_body.png" alt="Detailed Body" width="450"/>  
 
 I think the most difficult part of my project is creating the arms for my robot because they are consisted of so many joints 
