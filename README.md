@@ -47,5 +47,15 @@ Two lessons robots can learn from human actors:
   <img src="qsketch24.png" alt="drawing" width="350"/>
   
   I will try to make those joints work by testing the implemenation of different motors at those joints. 
+  
+## Project Updates
+
+I think the most difficult part of my project is creating the arms for my robot because they are consisted of so many joints 
+which requires me to consider the weight distribution through out the arms. Placing one servo motor at each joint could be 
+problematic becuase each part of the arm might not be able to hold the weight. I was thinking of using wires to connect to 
+those joints, so the motors could be placed inside the body of the robot to control those wires. I did an extensive research 
+on this mechanism and found it problematic because I wouldn't be able to move the parts of the arms in the directions that I i
+intended to. Also, I think the mechanism is too complicated for me to build my robot's arms which perform very simpl
+movements.
    
 
