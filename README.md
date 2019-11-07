@@ -59,5 +59,7 @@ intended to. Also, I think the mechanism is too complicated for me to build my r
 movements.
 
 I turned back to the original idea of using different motors for different joints of the arms. For the attaching the whole arm to the body, I will use big servo motor because it has more strength and it will not add weight to the arm. For the rest of the joints in the arms, I will use small motors because they are less heavy and have similar power to the big servo motors. I aslo plan to use different materials for each part of the arms. For the upper part of the arm, I will use wood/cardboard because I need to make sure that it will be able to hold the lower part of the arm and the hand. For the lower part of the arm, I will use foam/cardboard because I want to lessen the weight that the upper part of the arm needs to hold. In addition, the lower part of the arm is controlled by a small servo motor, so I need to reduce the weight to make sure the small motor could hold it. For the hand, I will use foam. I hope that by using different materials I will be able to lessen the weight for the motors to be able to move those parts.
+
+<img src="detailed_arm.png" alt="figure1" width="450"/>  
    
 
