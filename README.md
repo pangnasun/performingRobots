@@ -84,5 +84,9 @@ Balancing the weight throughout the arm is really important here, so I need to m
 
 <img src="jointAttached.png" alt="Robot's Joint" width="450"/> 
 
+After I attached all these parts, I did several test runs to figure out whether the servo motors are able to move their attached parts. I soldered more servo motor pins to the motor shield to attach more than two servo motors to the shield.
+
+<img src="photoShield_attached.png" alt="Robot's Arm" width="450"/> 
+
 
 
