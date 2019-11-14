@@ -72,3 +72,7 @@ I was working on implementing the mechanism of my robot's arm. I worked with car
 
 <img src="robotArm2.png" alt="Robot's Arm" width="450"/>  
 
+Each part of the arm is attached by one motor:
+
+<img src="robotArm1.png" alt="Robot's Arm" width="450"/>  
+
