@@ -76,3 +76,7 @@ Each part of the arm is attached by one motor:
 
 <img src="robotArm1.png" alt="Robot's Arm" width="450"/>  
 
+The upper part of the arm is attached to a big servo motor because it has to hold the weight of the whole arm.
+
+<img src="robotArm.png" alt="Robot's Arm" width="450"/> 
+
