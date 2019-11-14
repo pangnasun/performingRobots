@@ -70,3 +70,5 @@ I turned back to the original idea of using different motors for different joint
 
 I was working on implementing the mechanism of my robot's arm. I worked with cardboard to create different parts of the robot's arm instead. I figured out that I could use different kinds of cardboard for each part of the arm. For instance, I used thicker cardboard for the upper part of the hand and used thinner cardboard for the lower part of the arm. Since the thicker cardboard is quite strong, it is able to hold the other parts of the arm.
 
+<img src="robotArm1.jpg" alt="Detailed Arm" width="450"/>  
+
