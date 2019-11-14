@@ -90,5 +90,9 @@ After I attached all these parts, I did several test runs to figure out whether 
 
 It turned out both the big and the small servo motors are able to move their attached parts quite well. I needed to make sure that the servo motors are attached to the motor shield in order for the servo motors to hold their positions else the weights of their attached parts would move them.
 
+Materials Notes: 
+  - The gears of the small motors are missing
+  - The high-torque-big servo motors are running out
+
 
 
