@@ -80,3 +80,9 @@ The upper part of the arm is attached to a big servo motor because it has to hol
 
 <img src="robotArm.png" alt="Robot's Arm" width="450"/> 
 
+Balancing the weight throughout the arm is really important here, so I need to make sure that the joint are stably attached. In order to do that, I can't attach the lower part of the arm directly to the motor. Instead, I need to attach a small piece of cardboard to the motor's gear first and then attach the lower part of the arm to that cardboard. By doing so, the lower part of the arm would not bend. 
+
+<img src="jointAttached.png" alt="Robot's Joint" width="450"/> 
+
+
+
