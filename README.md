@@ -86,7 +86,9 @@ Balancing the weight throughout the arm is really important here, so I need to m
 
 After I attached all these parts, I did several test runs to figure out whether the servo motors are able to move their attached parts. I soldered more servo motor pins to the motor shield to attach more than two servo motors to the shield.
 
-<img src="photoShield_attached.png" alt="Robot's Arm" width="450"/> 
+<img src="photoShield_attached.png" alt="Attaching to motorshield" width="450"/> 
+
+It turned out both the big and the small servo motors are able to move their attached parts quite well. I needed to make sure that the servo motors are attached to the motor shield in order for the servo motors to hold their positions else the weights of their attached parts would move them.
 
 
 
