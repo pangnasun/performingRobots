@@ -110,6 +110,6 @@ Despite the weight distribution that I used on different parts of the arms and l
 
 <img src="jointSupport.png" alt="Joint Support" width="450"/> 
 
-
+Thus, as I am working on each part of my robot, I focus on adding support structures to those parts to make sure that they are rigid and stable. Adding support structures are very essentail since I have so many motor joints.
 
 
