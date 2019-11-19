@@ -100,6 +100,12 @@ All the motors I tested are working, so I was able to finish the other arm and l
 
 <img src="arms.png" alt="Robot's Arms" width="450"/> 
 
+I also added the 3D structures to the arms and legs to make sure that they would not bend by the weights of the different parts. 
+
+<img src="legStructure.png" alt="Robot's Leg" width="450"/> 
+
+<img src="legStructure2.png" alt="Robot's Leg" width="450"/> 
+
 
 
 
