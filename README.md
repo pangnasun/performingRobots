@@ -106,6 +106,9 @@ I also added the 3D structures to the arms and legs to make sure that they would
 
 <img src="legStructure2.png" alt="Robot's Leg" width="450"/> 
 
+Despite the weight distribution that I used on different parts of the arms and legs, I still find it an issue that the weight of the lower part of could tear itself from being attached to the servo motor. In order to ensure that, I added another support structure below each part of the arm to support the weight. 
+
+<img src="jointStructure.png" alt="Joint Structure" width="450"/> 
 
 
 
