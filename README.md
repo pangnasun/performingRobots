@@ -93,6 +93,12 @@ It turned out both the big and the small servo motors are able to move their att
 Materials Notes: 
   - The gears of the small motors are missing
   - The high-torque-big servo motors are running out
+  
+## Project Updates III
+
+All the motors I tested are working, so I was able to finish the other arm and legs of my robot.
+
+
 
 
 
