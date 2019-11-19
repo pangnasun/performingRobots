@@ -98,6 +98,8 @@ Materials Notes:
 
 All the motors I tested are working, so I was able to finish the other arm and legs of my robot.
 
+<img src="arms.png" alt="Robot's Arms" width="450"/> 
+
 
 
 
